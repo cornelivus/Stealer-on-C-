@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe.config
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.pdb
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\DotNetZip.dll
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\DotNetZip.pdb
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\DotNetZip.xml
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsF.BB346B00.Up2Date
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.exe
+C:\Users\1\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.pdb
